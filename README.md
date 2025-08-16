@@ -20,12 +20,6 @@ Before you begin, ensure you have met the following requirements:
 
 To install **Anon**, follow these steps:
 
-windows:
-
-```bash
-sudo git clone https://github.com/Bhavani3839/Anon-ecommerce-website.git
-```
-
 Windows:
 
 ```bash
