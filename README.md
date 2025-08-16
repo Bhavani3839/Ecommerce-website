@@ -7,7 +7,7 @@ It is a fully responsive ecommerce website, maximum compatiblities in all mobile
 
 ## Demo
 
-![shankar Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+
 
 
 ## Prerequisites
