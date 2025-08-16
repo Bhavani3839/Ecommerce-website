@@ -1,14 +1,14 @@
 # Shankar - An eCommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
+![GitHub repo size](https://img.shields.io/github/repo-size/Bhavani3839/Shankar-ecommerce-website)
 
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+It is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![shankar Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![shankar Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
 
@@ -16,26 +16,21 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Anon
+## Installing Shankar
 
-To install **Anon**, follow these steps:
+To install **shankar**, follow these steps:
 
-Linux and macOS:
+windows:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+sudo git clone https://github.com/Bhavani3839/Shankar-ecommerce-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git clone https://github.com/Bhavani3839/Shankar-ecommerce-website.git
 ```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
 ## License
 
 This project is **free to use** and does not contains any license.
