@@ -1,6 +1,6 @@
 # Anon - An Ecommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Bhavani3839/Anon-ecommerce-website)
+
 
 
 It is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
