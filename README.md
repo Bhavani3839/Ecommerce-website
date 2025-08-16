@@ -1,4 +1,4 @@
-# shankar - An eCommerce Website
+# Shankar - An eCommerce Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
 
