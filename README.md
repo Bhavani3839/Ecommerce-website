@@ -1,6 +1,6 @@
-# anon - An Ecommerce Website
+# Anon - An Ecommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Bhavani3839/anon-ecommerce-website)
+![GitHub repo size](https://img.shields.io/github/repo-size/Bhavani3839/Anon-ecommerce-website)
 
 
 It is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
@@ -16,20 +16,20 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing anon
+## Installing Anon
 
-To install **anon**, follow these steps:
+To install **Anon**, follow these steps:
 
 windows:
 
 ```bash
-sudo git clone https://github.com/Bhavani3839/anon-ecommerce-website.git
+sudo git clone https://github.com/Bhavani3839/Anon-ecommerce-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Bhavani3839/anon-ecommerce-website.git
+git clone https://github.com/Bhavani3839/Anon-ecommerce-website.git
 ```
 ## License
 
