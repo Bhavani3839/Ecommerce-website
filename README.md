@@ -1,4 +1,4 @@
-# Shankar - An eCommerce Website
+# Shankar - An Ecommerce Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Bhavani3839/Shankar-ecommerce-website)
 
