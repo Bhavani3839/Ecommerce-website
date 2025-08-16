@@ -1,6 +1,6 @@
-# Shankar - An Ecommerce Website
+# anon - An Ecommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Bhavani3839/Shankar-ecommerce-website)
+![GitHub repo size](https://img.shields.io/github/repo-size/Bhavani3839/anon-ecommerce-website)
 
 
 It is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
@@ -16,20 +16,20 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Shankar
+## Installing anon
 
-To install **shankar**, follow these steps:
+To install **anon**, follow these steps:
 
 windows:
 
 ```bash
-sudo git clone https://github.com/Bhavani3839/Shankar-ecommerce-website.git
+sudo git clone https://github.com/Bhavani3839/anon-ecommerce-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Bhavani3839/Shankar-ecommerce-website.git
+git clone https://github.com/Bhavani3839/anon-ecommerce-website.git
 ```
 ## License
 
