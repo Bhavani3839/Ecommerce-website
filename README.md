@@ -6,7 +6,7 @@
 It is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
-
+![shankar Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
 
 
 
